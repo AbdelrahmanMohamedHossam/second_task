@@ -1,0 +1,53 @@
+2022-10-23 22:37:28,542 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-23 22:38:52,948 [Worker-17: Launching mavenrun-e43e7e8d-734e-4e48-bb71-137e741eef2e] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Hossam\Desktop\second_task
+2022-10-23 22:38:52,952 [Worker-17: Launching mavenrun-e43e7e8d-734e-4e48-bb71-137e741eef2e] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.1 -Dpackage=TASK2.VOIS -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=TASK2 -DartifactId=VOIS -DoutputDirectory=C:\Users\Hossam\Desktop\second_task -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-10-23 22:39:30,415 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Hossam\Desktop\second_task\VOIS\pom.xml
+2022-10-23 22:39:32,344 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TASK2:VOIS:0.0.1-SNAPSHOT @ C:\Users\Hossam\Desktop\second_task\VOIS\pom.xml.
+2022-10-23 22:39:32,733 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VOIS/src/main/java
+2022-10-23 22:39:32,742 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /VOIS/src/test/java
+2022-10-23 22:39:32,851 [Worker-11: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2022-10-23 22:39:33,794 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:39:33,795 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:39:33,800 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:39:33,800 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:07,108 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: task1:VOIS:0.0.1-SNAPSHOT @ C:\Users\Hossam\Desktop\VOIS_Task2\Task2\pom.xml.
+2022-10-23 22:40:07,319 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:07,319 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\VOIS_Task2\Task2\src\main\resources
+2022-10-23 22:40:07,322 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:07,322 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\VOIS_Task2\Task2\src\test\resources
+2022-10-23 22:40:08,252 [Worker-2: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: task1:VOIS:0.0.1-SNAPSHOT @ C:\Users\Hossam\Desktop\VOIS_Task2\Task2\pom.xml.
+2022-10-23 22:40:08,633 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:08,633 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\VOIS_Task2\Task2\src\main\resources
+2022-10-23 22:40:08,636 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:08,636 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\VOIS_Task2\Task2\src\test\resources
+2022-10-23 22:40:26,107 [Worker-7: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: task1:VOIS:0.0.1-SNAPSHOT @ C:\Users\Hossam\Desktop\second_task\VOIS\pom.xml.
+2022-10-23 22:40:26,275 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:26,276 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:26,279 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:26,279 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:27,426 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:27,427 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:27,430 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:27,430 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:36,901 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:36,901 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:36,904 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:36,904 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:40,567 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:40,567 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:40,570 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:40,571 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:52,969 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:52,969 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:52,970 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:52,971 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:40:56,530 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:56,530 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:40:56,532 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:40:56,532 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:41:02,902 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:41:02,903 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
+2022-10-23 22:41:02,905 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:41:02,905 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\test\resources
+2022-10-23 22:41:30,777 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-23 22:41:30,777 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hossam\Desktop\second_task\VOIS\src\main\resources
